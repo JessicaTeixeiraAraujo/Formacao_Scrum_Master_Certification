@@ -1,6 +1,6 @@
 <span align="center">
 
-#  *Bem-vindos ao repositório: Formação Scrum MasterCertification*
+#  *Bem-vindos ao repositório: Formação Scrum Master Certification*
 
 ## Neste local, você encontrará, os projetos elaborados durante a minha formação.
 </span>
