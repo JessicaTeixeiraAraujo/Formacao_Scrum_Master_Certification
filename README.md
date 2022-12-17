@@ -2,10 +2,11 @@
 
 #  *Bem-vindos ao repositório: Formação Scrum Master Certification*
 
-## Neste local, você encontrará, os projetos elaborados durante a minha formação.
 </span>
 
 <span align="justify">
+
+## Neste local, você encontrará os projetos elaborados e certificados de conclusão dos módulos realizados durante a minha formação.
 
 Formação profissional com base em todos os fundamentos do Scrum, um framework leve que ajuda pessoas, times e organizações a gerar valor por meio de soluções adaptativas para problemas complexos. A gestão ágil com Scrum permite um desenvolvimento flexível, iterativo e incremental de novos produtos e serviços, sempre promovendo uma cultura voltada ao aprendizado, melhoria contínua e aproximação com o cliente. Além de dominar os fundamentos e o framework Scrum para a Certificação Internacional: *Professional Scrum Master I (PSM I) da Scrum.org*. 
 
