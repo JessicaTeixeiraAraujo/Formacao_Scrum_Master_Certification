@@ -20,6 +20,6 @@ Formação profissional com base em todos os fundamentos do Scrum, um framework 
 
 <span align="center">
 
-# *Link de acesso ao certificado de conclusão:* <https://www.dio.me/certificate/D3AAE22D/share>
+## *Link de acesso ao certificado de conclusão:* <https://www.dio.me/certificate/D3AAE22D/share>
 
 </span>
